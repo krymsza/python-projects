@@ -1,5 +1,5 @@
 # python-projects
-Few python projects 
+A few python projects 
 
 ### project1 
 detecting center of a ball on video and picture
